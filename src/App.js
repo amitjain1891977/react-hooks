@@ -7,7 +7,7 @@ function App() {
       <h1>0</h1>
       <button style={{height:30, marginBottom: 20}}>Start Counter</button>
     </div>
-  );
+  ); 
 }
 
 export default App;
